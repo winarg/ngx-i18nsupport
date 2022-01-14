@@ -1,4 +1,6 @@
-import * as Tokenizr from 'tokenizr';
+// import * as Tokenizr from 'tokenizr';
+
+import Tokenizr from "tokenizr";
 
 /**
  * Created by martin on 04.06.2017.

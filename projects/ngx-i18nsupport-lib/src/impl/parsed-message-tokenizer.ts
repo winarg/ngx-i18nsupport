@@ -1,4 +1,5 @@
-import * as Tokenizr from 'tokenizr';
+// import * as Tokenizr from 'tokenizr';
+import Tokenizr from 'tokenizr';
 import {isNullOrUndefined} from 'util';
 
 /**
